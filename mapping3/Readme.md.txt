@@ -1,0 +1,1 @@
+more  on mappings in react using spread operator
