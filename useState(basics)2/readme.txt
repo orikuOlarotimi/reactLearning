@@ -1,0 +1,1 @@
+Learning the basics of useState  with arrays in react to display data in an array and a button to delete the data
