@@ -1,0 +1,1 @@
+using short circuit operators in  reactfor basic tasks
