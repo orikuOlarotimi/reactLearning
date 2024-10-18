@@ -1,0 +1,1 @@
+handling multiple inputs with forms where instead of creating multiple useStates we use a single function
