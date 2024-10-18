@@ -1,0 +1,1 @@
+using short circuit operators and tenary opeartors in  reactfor basic tasks
