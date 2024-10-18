@@ -1,0 +1,1 @@
+using short circuit operators, tenary opeartors with useEffect in react to display the active size of the browser window
