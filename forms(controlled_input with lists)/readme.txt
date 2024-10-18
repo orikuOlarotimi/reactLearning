@@ -1,0 +1,1 @@
+using controlled inputs with lists to store the users firstname and email created and then  display all items in the list to the screen
