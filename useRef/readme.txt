@@ -1,0 +1,1 @@
+learning about useRef which is used to target DOM elements and holds the value of the dom elements
