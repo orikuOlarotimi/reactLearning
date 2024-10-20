@@ -1,0 +1,1 @@
+learning about useReducer which is used to also save states like the useState. In this project i used useReducer to create an input which allows you to add notes to the screen and then displays a temporary modal element which displays something to the screen
