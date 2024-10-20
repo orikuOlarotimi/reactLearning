@@ -1,0 +1,1 @@
+Practicing prop drop drilling used to pass properties to objects
