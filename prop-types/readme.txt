@@ -1,0 +1,1 @@
+Learning about prop types and in this project i used it to validate if the data  coming from a URL has all the correct fields
